@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "knowledgebase",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "tokensecret": "abctest123",
+  "dbName": "knowledgebase"
+}
